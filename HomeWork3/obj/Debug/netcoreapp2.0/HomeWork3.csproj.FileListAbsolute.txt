@@ -1,0 +1,11 @@
+C:\Users\III\Desktop\Github\HomeWork3\HomeWork3\bin\Debug\netcoreapp2.0\HomeWork3.deps.json
+C:\Users\III\Desktop\Github\HomeWork3\HomeWork3\bin\Debug\netcoreapp2.0\HomeWork3.runtimeconfig.json
+C:\Users\III\Desktop\Github\HomeWork3\HomeWork3\bin\Debug\netcoreapp2.0\HomeWork3.runtimeconfig.dev.json
+C:\Users\III\Desktop\Github\HomeWork3\HomeWork3\bin\Debug\netcoreapp2.0\HomeWork3.dll
+C:\Users\III\Desktop\Github\HomeWork3\HomeWork3\bin\Debug\netcoreapp2.0\HomeWork3.pdb
+C:\Users\III\Desktop\Github\HomeWork3\HomeWork3\obj\Debug\netcoreapp2.0\HomeWork3.csprojAssemblyReference.cache
+C:\Users\III\Desktop\Github\HomeWork3\HomeWork3\obj\Debug\netcoreapp2.0\HomeWork3.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\Github\HomeWork3\HomeWork3\obj\Debug\netcoreapp2.0\HomeWork3.AssemblyInfoInputs.cache
+C:\Users\III\Desktop\Github\HomeWork3\HomeWork3\obj\Debug\netcoreapp2.0\HomeWork3.AssemblyInfo.cs
+C:\Users\III\Desktop\Github\HomeWork3\HomeWork3\obj\Debug\netcoreapp2.0\HomeWork3.dll
+C:\Users\III\Desktop\Github\HomeWork3\HomeWork3\obj\Debug\netcoreapp2.0\HomeWork3.pdb
